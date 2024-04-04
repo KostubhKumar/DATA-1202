@@ -36,7 +36,7 @@ This project can be further developed into a web application or integrated into 
 Kostubh Kumar
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the CC0 1.0 Universal license.
 
 ## Acknowledgement
 Special thanks to Professor Omar Al-Trad for his guidance
