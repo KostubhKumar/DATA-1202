@@ -39,4 +39,4 @@ Kostubh Kumar
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Acknowledgement
-Special thanks to [Your Acknowledgements]
+Special thanks to Professor Omar Al-Trad for his guidance
