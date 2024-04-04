@@ -5,7 +5,7 @@ Video Game Sales Analysis
 This project analyzes video game sales data to determine if there's a difference in average global sales before and after the year 2005. It also labels records as 'pre-2005' or 'post-2005' based on the release year.
 
 ## Getting Started
-To get started with this project, follow the instructions below.
+These guidelines will assist you in obtaining a copy of the code for development and testing on your local machine. Refer to the deployment section for instructions on how to deploy the project on a live system.
 
 ## Prerequisites
 - Python 3
@@ -14,8 +14,8 @@ To get started with this project, follow the instructions below.
 - pymysql
 
 ## Installing
-1. Clone the repository to your local machine.
-2. Install the required dependencies using pip:
+- Clone the repository to your local machine.
+- Install the required dependencies using pip:
 
 pip install pandas sqlalchemy pymysql
 
